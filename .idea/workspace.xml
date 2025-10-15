@@ -5,48 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9571a0ca-69f4-4ff9-834a-da0d1398c606" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/Startup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/controllers/GreetingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/controllers/MathController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/exception/ExceptionResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/exception/UnsuportedMathOperationException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/exception/handler/CustomizeEntityResponseHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/model/Greeting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/test/java/br/com/anisio/rest_with_spring_boot_and_java/StartupTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/src/test/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/br/com/anisio/rest_with_spring_boot_and_java/Startup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/br/com/anisio/rest_with_spring_boot_and_java/controllers/GreetingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/br/com/anisio/rest_with_spring_boot_and_java/controllers/MathController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/br/com/anisio/rest_with_spring_boot_and_java/exception/ExceptionResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/br/com/anisio/rest_with_spring_boot_and_java/exception/UnsuportedMathOperationException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/br/com/anisio/rest_with_spring_boot_and_java/exception/handler/CustomizeEntityResponseHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/classes/br/com/anisio/rest_with_spring_boot_and_java/model/Greeting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/rest-with-spring-boot-and-java-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/rest-with-spring-boot-and-java-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/surefire-reports/TEST-br.com.anisio.rest_with_spring_boot_and_java.StartupTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/surefire-reports/br.com.anisio.rest_with_spring_boot_and_java.StartupTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/test-classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rest-with-spring-boot-and-java/target/test-classes/br/com/anisio/rest_with_spring_boot_and_java/StartupTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/controllers/MathController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/anisio/rest_with_spring_boot_and_java/controllers/MathController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,25 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Startup.executor": "Run",
-    "JUnit.All in rest-with-spring-boot-and-java.executor": "Run",
-    "Maven.rest-with-spring-boot-and-java [clean].executor": "Run",
-    "Maven.rest-with-spring-boot-and-java [install].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/anisi/OneDrive/Documents/Curso Spring/rest-with-spring-boot-and-java",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Startup.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in rest-with-spring-boot-and-java.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.rest-with-spring-boot-and-java [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.rest-with-spring-boot-and-java [install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anisi/OneDrive/Documents/Curso Spring/rest-with-spring-boot-and-java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\anisi\OneDrive\Documents\Curso Spring\rest-with-spring-boot-and-java\rest-with-spring-boot-and-java\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.anisio.rest_with_spring_boot_and_java.util" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Startup">
